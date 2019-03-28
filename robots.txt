@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohcuechar.dosbox-x.com/sitemap.xml
